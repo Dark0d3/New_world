@@ -23,6 +23,10 @@ Example:
 
 
 
+Character Model From Mixamo
+https://www.mixamo.com/#/?page=1&type=Character
+Megan
+Character Animations From Mixamo
 
 Project Gameplay:
 
