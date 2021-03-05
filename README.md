@@ -14,5 +14,8 @@ The tiles consist of shapes which need to be rotated to resemble a shape, the sh
 anything.
 Example:
 
-Uploading Puzzle8.mp4…
+
+https://user-images.githubusercontent.com/47804992/110107550-0b878600-7dd1-11eb-9737-f601eb294691.mp4
+
+
 
