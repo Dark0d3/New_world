@@ -17,6 +17,4 @@ Example:
 
 https://user-images.githubusercontent.com/47804992/110107550-0b878600-7dd1-11eb-9737-f601eb294691.mp4
 
-
-
-https://youtu.be/xI-Ms1rKPhs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xI-Ms1rKPhs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
