@@ -7,11 +7,12 @@ This project was just made for a machine test!!
 
 Problem statement
 
-Assemble a set of tiles that have a particular image on it.
-These images when assembled in a pattern must unlock a pathway.
-Each tile must be able to be rotated 90 degrees using a lever or some contraception.
-The tiles consist of shapes which need to be rotated to resemble a shape, the shape can be
-anything.
+*Assemble a set of tiles that have a particular image on it.
+*These images when assembled in a pattern must unlock a pathway.
+*Each tile must be able to be rotated 90 degrees using a lever or some contraception.
+*The tiles consist of shapes which need to be rotated to resemble a shape, the shape can be
+  anything.
+
 Example:
 
 [![Puzzle](https://img.youtube.com/vi/xI-Ms1rKPhs/0.jpg)](//www.youtube.com/watch?v=xI-Ms1rKPhs)
