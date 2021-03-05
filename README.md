@@ -14,8 +14,8 @@ The tiles consist of shapes which need to be rotated to resemble a shape, the sh
 anything.
 Example:
 
-
-https://user-images.githubusercontent.com/47804992/110107550-0b878600-7dd1-11eb-9737-f601eb294691.mp4
-
-
 [![Puzzle](https://img.youtube.com/vi/xI-Ms1rKPhs/0.jpg)](//www.youtube.com/watch?v=xI-Ms1rKPhs)
+
+
+Project Gameplay:
+[![Gameplay](https://img.youtube.com/vi/oJKzGt8U2Ys/0.jpg)](//www.youtube.com/watch?v=oJKzGt8U2Ys)
