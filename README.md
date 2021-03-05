@@ -14,11 +14,12 @@ The tiles consist of shapes which need to be rotated to resemble a shape, the sh
 anything.
 Example:
 
-   [![Puzzle](https://img.youtube.com/vi/xI-Ms1rKPhs/0.jpg)](//www.youtube.com/watch?v=xI-Ms1rKPhs)
+[![Puzzle](https://img.youtube.com/vi/xI-Ms1rKPhs/0.jpg)](//www.youtube.com/watch?v=xI-Ms1rKPhs)
 
 
 
 
 
 Project Gameplay:
+
 [![Gameplay](https://img.youtube.com/vi/oJKzGt8U2Ys/0.jpg)](//www.youtube.com/watch?v=oJKzGt8U2Ys)
